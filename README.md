@@ -13,9 +13,8 @@ Carbon-Aware Web Infrastructure for the Modern Edge.
 
 ```text
 Eco sync-project/
-│
 ├── index2.html         # Main Daily Chronicle news portal with built-in SPA router & EcoSync SDK
-
+```
 
 ## Ppt link
-**https://canva.link/zyksdikjrfot7ow **
+https://canva.link/zyksdikjrfot7ow
